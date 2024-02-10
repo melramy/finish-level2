@@ -1,0 +1,10 @@
+.hide-when-mobile {
+
+  flex-direction: column;
+}
+p,button,a,footer{
+  font-size: 17px;
+}
+.main-list{
+  padding: 10px 12px;
+}
